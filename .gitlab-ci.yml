@@ -47,3 +47,4 @@ node version:
   image: node
   script:
     - node --version
+    - cd src/web; npm install
