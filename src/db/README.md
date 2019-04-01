@@ -51,6 +51,7 @@ Setting up the Tables (WITH CONTENT)
     1. `psql -q -f ./create_tables_insert_data/Users.sql`
     1. `psql -q -f ./create_tables_insert_data/Views.sql`
     1. `psql -q -f ./grant_tables_add_constraint.sql`
+    1. `psql -q -f ./create_tables_insert_data/Recommendations.sql`
 
 Testing your Connection
 -----------------------
